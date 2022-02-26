@@ -1,4 +1,4 @@
-# Introduction task 
+# Introduction task 🗺
 
 The purpose of this task is to figure out how to use basic tooling of the Golang as well as check your IDE setup.
 

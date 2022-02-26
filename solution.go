@@ -4,8 +4,8 @@ import (
 	"github.com/kyokomi/emoji/v2"
 )
 
-func GetMessage() string {
+func GetMessage() {
 
 	emoji.Println("Hello :world_map:!")
-	return ""
+
 }
